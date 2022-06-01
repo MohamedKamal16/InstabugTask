@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="get">GET</string>
+    <string name="post">Post</string>
+    <string name="body">Body</string>
+    <string name="header">Header</string>
+    <string name="parameter">Parameter</string>
+</resources>
